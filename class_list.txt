@@ -1,1 +1,1 @@
-co_man_trau dinh_lang tia_to
+co_man_trau tia_to dinh_lang
